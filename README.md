@@ -10,24 +10,24 @@
 VIDIT includes 390 different Unreal Engine scenes, each captured with 40 illumination settings, resulting in 15,600 images. The illumination settings are all the combinations of 5 color temperatures (2500K, 3500K, 4500K, 5500K and 6500K) and 8 light directions (N, NE, E, SE, S, SW, W, NW). Original image resolution is 1024x1024.
 
 <p align="center">
-  <img src="diagram.png" width="300px"/>
+  <img src="gifs/diagram.png" width="300px"/>
 </p>
 
 ## Examples with varying direction
 <p align="center">
-<img src="A_directions.gif" width="200" /> 
-<img src="B_directions.gif" width="200" />
-<img src="C_directions.gif" width="200" /> 
-<img src="D_directions.gif" width="200" />
+<img src="gifs/A_directions.gif" width="200" /> 
+<img src="gifs/B_directions.gif" width="200" />
+<img src="gifs/C_directions.gif" width="200" /> 
+<img src="gifs/D_directions.gif" width="200" />
 </p>
 
 
 ## Examples with varying color temperature
 <p align="center">
-<img src="A_illuminants.gif" width="200" /> 
-<img src="B_illuminants.gif" width="200" />
-<img src="C_illuminants.gif" width="200" /> 
-<img src="D_illuminants.gif" width="200" />
+<img src="gifs/A_illuminants.gif" width="200" /> 
+<img src="gifs/B_illuminants.gif" width="200" />
+<img src="gifs/C_illuminants.gif" width="200" /> 
+<img src="gifs/D_illuminants.gif" width="200" />
 </p>
 
 ## Getting the data

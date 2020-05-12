@@ -1,6 +1,6 @@
 # VIDIT: Virtual Image Dataset for Illumination Transfer
 
-:fire: **News** :fire: VIDIT is used for the relighting challenge in the [AIM workshop](https://data.vision.ee.ethz.ch/cvl/aim20/), part of ECCV 2020. Check out the [relighting competition](https://competitions.codalab.org/competitions/24671) beginning May 13th 2020, it is made up of 3 tracks for any-to-one and any-to-any illumination transfer, and for illumination estimation.
+:fire: **News** :fire: VIDIT is used for the relighting challenge in the [AIM workshop](https://data.vision.ee.ethz.ch/cvl/aim20/), part of ECCV 2020. Check out the [relighting competition](https://competitions.codalab.org/competitions/24671) beginning May 13th 2020, it is made up of 3 tracks for [one-to-one](https://competitions.codalab.org/competitions/24671) and [any-to-any](https://competitions.codalab.org/competitions/24674) illumination transfer, and for [illumination estimation](https://competitions.codalab.org/competitions/24773).
 
 ### [Paper]()
 

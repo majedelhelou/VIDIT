@@ -1,2 +1,37 @@
-# VIDIT
-Virtual Image Dataset for Illumination Transfer
+# VIDIT: Virtual Image Dataset for Illumination Transfer
+
+:fire: **News** :fire: VIDIT is used for the relighting challenge in the [AIM workshop](https://data.vision.ee.ethz.ch/cvl/aim20/), part of ECCV 2020. Check out the [relighting competition](https://competitions.codalab.org/competitions/24671) beginning May 13th 2020, it is made up of 3 tracks for any-to-one and any-to-any illumination transfer, and for illumination estimation.
+
+### [Paper]()
+
+> **Abstract:** *Deep image relighting is gaining more interest lately, as it allows photo enhancement through illumination-specific retouching without human effort. Aside from aesthetic enhancement and photo montage, image relighting is valuable for domain adaptation, whether to augment datasets for training or to normalize input test data. Accurate relighting is, however, very challenging for various reasons, such as the difficulty in removing and recasting shadows and the modeling of different surfaces. We present a novel dataset, the Virtual Image Dataset for Illumination Transfer (VIDIT), in an effort to create a reference evaluation benchmark and to push forward the development of illumination manipulation methods. Virtual datasets are not only an important step towards achieving real-image performance but have also proven capble of improving training even when real datasets are possible to acquire and available. VIDIT contains 300 virtual scenes used for training, where every scene is captured 40 times in total: from 8 equally-spaced azimuthal angles, each lit with 5 different illuminants.*
+
+## Content
+VIDIT includes 390 different Unreal Engine scenes, each captured with 40 illumination settings, resulting in 15,600 images. The illumination settings are all the combinations of 5 color temperatures (2500K, 3500K, 4500K, 5500K and 6500K) and 8 light directions (N, NE, E, SE, S, SW, W, NW). Original image resolution is 1024x1024.
+
+<p align="center">
+  <img src="diagram.png" width="300px"/>
+</p>
+
+## Examples with varying direction
+<p align="center">
+<img src="A_directions.gif" width="200" /> 
+<img src="B_directions.gif" width="200" />
+<img src="C_directions.gif" width="200" /> 
+<img src="D_directions.gif" width="200" />
+</p>
+
+
+## Examples with varying color temperature
+<p align="center">
+<img src="A_illuminants.gif" width="200" /> 
+<img src="B_illuminants.gif" width="200" />
+<img src="C_illuminants.gif" width="200" /> 
+<img src="D_illuminants.gif" width="200" />
+</p>
+
+## Getting the data
+The **training** dataset in full 1024x1024 resolution is available for **[download](https://drive.google.com/open?id=1i_2lIXi-gXgIouDCYnfrdtY3wzTiH1E9)**.
+
+Validation data is gradually made available to the ECCV 2020 competition participants, it will be made available here soon. Test data will remain private.
+

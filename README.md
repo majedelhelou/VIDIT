@@ -33,7 +33,11 @@ VIDIT includes 390 different Unreal Engine scenes, each captured with 40 illumin
 </p>
 
 ## Getting the data
-The **training** dataset in full 1024x1024 resolution is available for **[download](https://drive.google.com/open?id=1i_2lIXi-gXgIouDCYnfrdtY3wzTiH1E9)**.
+The **training** dataset in full 1024x1024 resolution is available for download:
+
+**[Mirror 1](https://drive.google.com/open?id=1i_2lIXi-gXgIouDCYnfrdtY3wzTiH1E9)**
+
+**[Mirror 2](https://datasets.epfl.ch/vidit/VIDIT_train.zip)**
 
 Validation data is gradually made available to the ECCV 2020 competition participants, it will be made available here soon. Test data will remain private.
 

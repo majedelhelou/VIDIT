@@ -37,7 +37,7 @@ The **training** dataset in full 1024x1024 resolution is available for download:
 
 **[Mirror 1](https://drive.google.com/open?id=1i_2lIXi-gXgIouDCYnfrdtY3wzTiH1E9)** --- **[Mirror 2](https://datasets.epfl.ch/vidit/VIDIT_train.zip)**
 
-The images are downsampled by 2 for the competition (see validation/test data) to ease the computations:
+The images are downsampled by 2 for the competition track 3 (see validation/test data) to ease the computations:
 `smallsize_img = cv2.resize(origin_img, (512, 512), interpolation=cv2.INTER_CUBIC)`
 
 The **validation** set (competition track 3) is now available:

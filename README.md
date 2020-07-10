@@ -42,13 +42,13 @@ The images are downsampled by 2 for the competition track 3 (see validation/test
 
 The **validation** set (competition track 3) is now available:
 
-**[Input mirror 1]**(https://drive.google.com/open?id=18mx5Qx00xAKcBrxnXYAoRHwVfze-BVqK) 
+**[Input mirror 1](https://drive.google.com/open?id=18mx5Qx00xAKcBrxnXYAoRHwVfze-BVqK)**
 
-**[Ground-truth mirror 1]**(https://drive.google.com/file/d/1TYnGJSQfb7z6-4i4EiTci22uAmDwVqXb/view?usp=sharing)
+**[Ground-truth mirror 1](https://drive.google.com/file/d/1TYnGJSQfb7z6-4i4EiTci22uAmDwVqXb/view?usp=sharing)**
 
 The **test** set (competition track 3) inputs are now available, the targets are kept private:
 
-**[Input mirror 1]**(https://drive.google.com/file/d/1q5Dh4bJLFoSdojeZrbRJeBIgw3-TcvD-/view?usp=sharing)
+**[Input mirror 1](https://drive.google.com/file/d/1q5Dh4bJLFoSdojeZrbRJeBIgw3-TcvD-/view?usp=sharing)**
 
 Results from the ECCV 2020 competition participants will be made available here soon. Ground-truth test data will remain private.
 

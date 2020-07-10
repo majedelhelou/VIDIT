@@ -35,11 +35,22 @@ VIDIT includes 390 different Unreal Engine scenes, each captured with 40 illumin
 ## Getting the data
 The **training** dataset in full 1024x1024 resolution is available for download:
 
-**[Mirror 1](https://drive.google.com/open?id=1i_2lIXi-gXgIouDCYnfrdtY3wzTiH1E9)**
+**[Mirror 1](https://drive.google.com/open?id=1i_2lIXi-gXgIouDCYnfrdtY3wzTiH1E9)** --- **[Mirror 2](https://datasets.epfl.ch/vidit/VIDIT_train.zip)**
 
-**[Mirror 2](https://datasets.epfl.ch/vidit/VIDIT_train.zip)**
+The images are downsampled by 2 for the competition (see validation/test data) to ease the computations:
+`smallsize_img = cv2.resize(origin_img, (512, 512), interpolation=cv2.INTER_CUBIC)`
 
-Validation data is gradually made available to the ECCV 2020 competition participants, it will be made available here soon. Test data will remain private.
+The **validation** set (competition track 3) is now available:
+
+**[Input mirror 1]**(https://drive.google.com/open?id=18mx5Qx00xAKcBrxnXYAoRHwVfze-BVqK) 
+
+**[Ground-truth mirror 1]**(https://drive.google.com/file/d/1TYnGJSQfb7z6-4i4EiTci22uAmDwVqXb/view?usp=sharing)
+
+The **test** set (competition track 3) inputs are now available, the targets are kept private:
+
+**[Input mirror 1]**(https://drive.google.com/file/d/1q5Dh4bJLFoSdojeZrbRJeBIgw3-TcvD-/view?usp=sharing)
+
+Results from the ECCV 2020 competition participants will be made available here soon. Ground-truth test data will remain private.
 
 ## Citation
 

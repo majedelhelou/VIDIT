@@ -4,7 +4,7 @@ We will release more content soon, and updates about future challenges, you can 
 
 :fire: **News** :fire: VIDIT is used for the relighting challenge in the [AIM workshop](https://data.vision.ee.ethz.ch/cvl/aim20/), part of ECCV 2020. Check out the [relighting competition](https://competitions.codalab.org/competitions/24671) beginning May 13th 2020, it is made up of 3 tracks for [one-to-one](https://competitions.codalab.org/competitions/24671) and [any-to-any](https://competitions.codalab.org/competitions/24674) illumination transfer, and for [illumination estimation](https://competitions.codalab.org/competitions/24773).
 
-### [[VIDIT Paper](https://arxiv.org/abs/2005.05460)]
+### [[VIDIT Paper](https://arxiv.org/abs/2005.05460)] - [[ECCV AIM 2020 Video](https://www.youtube.com/watch?v=Zn7R0fbXJZw&feature=youtu.be)]
 
 > **Abstract:** *Deep image relighting is gaining more interest lately, as it allows photo enhancement through illumination-specific retouching without human effort. Aside from aesthetic enhancement and photo montage, image relighting is valuable for domain adaptation, whether to augment datasets for training or to normalize input test data. Accurate relighting is, however, very challenging for various reasons, such as the difficulty in removing and recasting shadows and the modeling of different surfaces. We present a novel dataset, the Virtual Image Dataset for Illumination Transfer (VIDIT), in an effort to create a reference evaluation benchmark and to push forward the development of illumination manipulation methods. Virtual datasets are not only an important step towards achieving real-image performance but have also proven capable of improving training even when real datasets are possible to acquire and available. VIDIT contains 300 virtual scenes used for training, where every scene is captured 40 times in total: from 8 equally-spaced azimuthal angles, each lit with 5 different illuminants.*
 
@@ -38,10 +38,10 @@ Results from the ECCV 2020 competition participants will be made available soon.
 
 * Norm-Relighting-U-Net (M. Afifi and M. Brown): [[Code](https://github.com/mahmoudnafifi/image_relighting)]
 
-* Deep Relighting Network (L. Wang, Z. Liu, C. Li, W. Siu, D. Lun): [[Code](https://github.com/WangLiwen1994/DeepRelight)]
+* Deep Relighting Network (L. Wang, Z. Liu, C. Li, W. Siu, D. Lun): [[Paper](https://arxiv.org/abs/2008.08298)] - [[Code](https://github.com/WangLiwen1994/DeepRelight)]
 
 
-## Citation
+## Citations
 
     @article{elhelou2020vidit,
         title={{VIDIT}: Virtual Image Dataset for Illumination Transfer},
@@ -49,6 +49,14 @@ Results from the ECCV 2020 competition participants will be made available soon.
         journal={arXiv preprint arXiv:2005.05460},
         year={2020}
     }
+    
+    @inproceedings{elhelou2020aim,
+        title={{AIM} 2020: Scene Relighting and Illumination Estimation Challenge},
+        author={El Helou, Majed and Zhou, Ruofan and S\"usstrunk, Sabine and Timofte, Radu and others},
+        booktitle={Proceedings of the European Conference on Computer Vision Workshops (ECCVW)},
+        year={2020}
+    }
+
 
 
 ### Examples with varying direction

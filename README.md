@@ -39,7 +39,11 @@ Results from the ECCV 2020 competition participants will be made available soon.
 
 * Norm-Relighting-U-Net (M. Afifi and M. Brown): [[Code](https://github.com/mahmoudnafifi/image_relighting)]
 
-* Deep Relighting Network (L. Wang, Z. Liu, C. Li, W. Siu, D. Lun): [[Paper](https://arxiv.org/abs/2008.08298)] - [[Code](https://github.com/WangLiwen1994/DeepRelight)]
+* (ECCVW2020) Deep relighting networks for image light source manipulation (L. Wang, Z. Liu, C. Li, W. Siu, D. Lun): [[Paper](https://arxiv.org/abs/2008.08298)] - [[Code](https://github.com/WangLiwen1994/DeepRelight)]
+
+* (ECCVW2020) An ensemble neural network for scene relighting with light classification (Dong, L., Jiang, Z., Li, C.)
+
+* (ECCVW2020) SA-AE for any-to-any relighting (Hu, Z., Huang, X., Li, Y., Wang, Q.)
 
 
 ## Citations

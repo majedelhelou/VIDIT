@@ -47,21 +47,21 @@ Results from the ECCV 2020 competition participants will be made available soon.
 
 
 ## Citations
+```bibtex
+@article{elhelou2020vidit,
+    title   = {{VIDIT}: Virtual Image Dataset for Illumination Transfer},
+    author  = {El Helou, Majed and Zhou, Ruofan and Barthas, Johan and S{\"u}sstrunk, Sabine},
+    journal = {arXiv preprint arXiv:2005.05460},
+    year    = {2020}
+}
 
-    @article{elhelou2020vidit,
-        title={{VIDIT}: Virtual Image Dataset for Illumination Transfer},
-        author={El Helou, Majed and Zhou, Ruofan and Barthas, Johan and S{\"u}sstrunk, Sabine},
-        journal={arXiv preprint arXiv:2005.05460},
-        year={2020}
-    }
-    
-    @inproceedings{elhelou2020aim,
-        title={{AIM} 2020: Scene Relighting and Illumination Estimation Challenge},
-        author={El Helou, Majed and Zhou, Ruofan and S\"usstrunk, Sabine and Timofte, Radu and others},
-        booktitle={Proceedings of the European Conference on Computer Vision Workshops (ECCVW)},
-        year={2020}
-    }
-
+@inproceedings{elhelou2020aim,
+    title     = {{AIM} 2020: Scene Relighting and Illumination Estimation Challenge},
+    author    = {El Helou, Majed and Zhou, Ruofan and S\"usstrunk, Sabine and Timofte, Radu and others},
+    booktitle = {Proceedings of the European Conference on Computer Vision Workshops (ECCVW)},
+    year      = {2020}
+}
+```
 
 
 ### Examples with varying direction

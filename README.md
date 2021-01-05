@@ -1,6 +1,6 @@
 # VIDIT: Virtual Image Dataset for Illumination Transfer
 
-We release updates on a rolling basis, you can *watch* the repository if you would like to be notified! Contact author: [Majed El Helou](majedelhelou.github.io)
+We release updates on a rolling basis, you can *watch* the repository if you would like to be notified! Contact author: [Majed El Helou](https://majedelhelou.github.io/)
 
 :fire: **News-Dec20**: VIDIT augmented with depth information is used in the NTIRE workshop challenges, part of CVPR 2021. The competition starts on January 5th 2021, and is made up of the depth guided [one-to-one](https://competitions.codalab.org/competitions/28030) and [any-to-any](https://competitions.codalab.org/competitions/28031) illumination transfer.
 

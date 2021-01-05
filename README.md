@@ -1,10 +1,10 @@
 # VIDIT: Virtual Image Dataset for Illumination Transfer
 
-We release updates on a rolling basis, you can *watch* the repository if you would like to be notified!
+We release updates on a rolling basis, you can *watch* the repository if you would like to be notified! Contact author: [Majed El Helou](majedelhelou.github.io)
 
-:fire: **News-Dec20**: VIDIT augmented with depth information is used in the NTIRE workshop challenges, part of CVPR 2021. Competition information coming soon...
+:fire: **News-Dec20**: VIDIT augmented with depth information is used in the NTIRE workshop challenges, part of CVPR 2021. The competition starts on January 5th 2021, and is made up of the depth guided [one-to-one](https://competitions.codalab.org/competitions/28030) and [any-to-any](https://competitions.codalab.org/competitions/28031) illumination transfer.
 
-:fire: **News-May20**: VIDIT is used for the relighting challenge in the [AIM workshop](https://data.vision.ee.ethz.ch/cvl/aim20/), part of ECCV 2020. Check out the [relighting competition](https://competitions.codalab.org/competitions/24671) beginning May 13th 2020, it is made up of 3 tracks for [one-to-one](https://competitions.codalab.org/competitions/24671) and [any-to-any](https://competitions.codalab.org/competitions/24674) illumination transfer, and for [illumination estimation](https://competitions.codalab.org/competitions/24773).
+:fire: **News-May20**: VIDIT is used for the relighting challenge in the [AIM workshop](https://data.vision.ee.ethz.ch/cvl/aim20/), part of ECCV 2020. Check out the relighting competition beginning May 13th 2020, it is made up of 3 tracks for [one-to-one](https://competitions.codalab.org/competitions/24671) and [any-to-any](https://competitions.codalab.org/competitions/24674) illumination transfer, and for [illumination estimation](https://competitions.codalab.org/competitions/24773).
 
 #### [[VIDIT Paper](https://arxiv.org/abs/2005.05460)] 
 #### [[ECCV AIM 2020 Paper](https://arxiv.org/abs/2009.12798)] - [[Supp.](https://github.com/majedelhelou/VIDIT/blob/master/AIM_2020_Relighting_Supp.pdf)] - [[Video](https://www.youtube.com/watch?v=Zn7R0fbXJZw)]

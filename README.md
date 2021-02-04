@@ -19,7 +19,10 @@ VIDIT includes 390 different Unreal Engine scenes, each captured with 40 illumin
 </p>
 
 
-## Getting the AIM 2020 data
+## Getting the CVPR 2021 NTIRE data
+*Coming soon*, for now you can get access through [codalab](https://competitions.codalab.org/competitions/28030)
+
+## Getting the ECCV 2020 AIM data
 Note: *ground-truth test* data will remain private.
 
 **Track 1** (1024x1024): [[Train](https://datasets.epfl.ch/vidit/AIM2020/AIM2020_track1_train.zip)] - [[Validation_Input](https://datasets.epfl.ch/vidit/AIM2020/AIM2020_track1_validation.zip)] - [[Validation_GT](https://datasets.epfl.ch/vidit/AIM2020/AIM2020_track1_validation_gt.zip)] - [[Test_Input](https://datasets.epfl.ch/vidit/AIM2020/AIM2020_track1_test.zip)]
@@ -34,8 +37,11 @@ The images are downsampled by 2 for the competition track 3 to ease the computat
 If you want to use VIDIT for other purposes, the training images are provided in full 1024x1024 resolution in the "Train" link of **Track 2** above. Also available for download from a Google Drive mirror here: [[Download](https://drive.google.com/open?id=1i_2lIXi-gXgIouDCYnfrdtY3wzTiH1E9)]
 
 
-## Some associated solutions (pull request to add yours)
-Results from the ECCV 2020 competition participants will be made available soon.
+## Some associated solutions (pull request/email to add yours)
+
+* (NeurIPSW2020) MSR-Net: Multi-Scale Relighting Network for One-to-One Relighting (S. D. Das, N. A. Shah, S. Dutta): [[Paper](https://montrealrobotics.ca/diffcvgp/assets/papers/9.pdf)]
+
+* (ECCVW2020) WDRN : A Wavelet Decomposed RelightNet forImage Relighting (D. Puthussery, Hrishikesh P.S., M. Kuriakose, and Jiji C.V): [[Paper](https://doi.org/10.1007/978-3-030-67070-2_32)]
 
 * Encoder-decoder latent space manipulation (A. Dherse, M. Everaert, and J. Gwizdala): [[Paper](https://arxiv.org/pdf/2006.02333.pdf)] - [[Code](https://github.com/martin-ev/2DSceneRelighting)]
 
@@ -45,7 +51,7 @@ Results from the ECCV 2020 competition participants will be made available soon.
 
 * (ECCVW2020) An ensemble neural network for scene relighting with light classification (Dong, L., Jiang, Z., Li, C.)
 
-* (ECCVW2020) SA-AE for any-to-any relighting (Hu, Z., Huang, X., Li, Y., Wang, Q.)
+* (ECCVW2020) SA-AE for any-to-any relighting (Hu, Z., Huang, X., Li, Y., Wang, Q.): [[Paper](https://doi.org/10.1007/978-3-030-67070-2_32)]
 
 
 ## Citations

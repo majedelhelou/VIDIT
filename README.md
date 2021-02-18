@@ -1,8 +1,10 @@
 # VIDIT: Virtual Image Dataset for Illumination Transfer
 
-We release updates on a rolling basis, you can *watch* the repository if you would like to be notified! Contact author: [Majed El Helou](https://majedelhelou.github.io/)
+We release updates on a rolling basis, you can *watch* the repository if you would like to be notified! 
 
-:fire: **News-Dec20**: VIDIT augmented with depth information is used in the NTIRE workshop challenges, part of CVPR 2021. The competition starts on January 5th 2021, and is made up of the depth guided [one-to-one](https://competitions.codalab.org/competitions/28030) and [any-to-any](https://competitions.codalab.org/competitions/28031) illumination transfer.
+Contact author: [Majed El Helou](https://majedelhelou.github.io/)
+
+:fire: **News-Jan21**: VIDIT augmented with depth information is used in the NTIRE workshop challenges, part of CVPR 2021. The competition starts on January 5th 2021, and is made up of the depth guided [one-to-one](https://competitions.codalab.org/competitions/28030) and [any-to-any](https://competitions.codalab.org/competitions/28031) illumination transfer.
 
 :fire: **News-May20**: VIDIT is used for the relighting challenge in the [AIM workshop](https://data.vision.ee.ethz.ch/cvl/aim20/), part of ECCV 2020. Check out the relighting competition beginning May 13th 2020, it is made up of 3 tracks for [one-to-one](https://competitions.codalab.org/competitions/24671) and [any-to-any](https://competitions.codalab.org/competitions/24674) illumination transfer, and for [illumination estimation](https://competitions.codalab.org/competitions/24773).
 
@@ -20,7 +22,7 @@ VIDIT includes 390 different Unreal Engine scenes, each captured with 40 illumin
 
 
 ## Getting the CVPR 2021 NTIRE data
-*Coming soon*, for now you can get access through [codalab](https://competitions.codalab.org/competitions/28030)
+*Coming soon*, for now you can get access through [codalab](https://competitions.codalab.org/competitions/28030).
 
 ## Getting the ECCV 2020 AIM data
 Note: *ground-truth test* data will remain private.
@@ -38,6 +40,8 @@ If you want to use VIDIT for other purposes, the training images are provided in
 
 
 ## Some associated solutions (pull request/email to add yours)
+
+* Deep Illuminator: Data augmentation through variable illumination synthesis: [[Code](https://github.com/chogovadze/Deep-Illuminator)] 
 
 * (NeurIPSW2020) MSR-Net: Multi-Scale Relighting Network for One-to-One Relighting (S. D. Das, N. A. Shah, S. Dutta): [[Paper](https://montrealrobotics.ca/diffcvgp/assets/papers/9.pdf)]
 

@@ -1,6 +1,6 @@
 # VIDIT: Virtual Image Dataset for Illumination Transfer
 
-We release updates on a rolling basis, you can *watch* the repository if you would like to be notified! 
+We release updates on a rolling basis, you can watch the repo/follow the author to be notified! 
 
 Contact author: [Majed El Helou](https://majedelhelou.github.io/)
 

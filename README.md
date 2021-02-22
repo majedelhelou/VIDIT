@@ -41,7 +41,9 @@ If you want to use VIDIT for other purposes, the training images are provided in
 
 ## Some associated solutions (pull request/email to add yours)
 
-* Deep Illuminator: Data augmentation through variable illumination synthesis (G. Chogovadze): [[Code](https://github.com/chogovadze/Deep-Illuminator)] 
+* (arXiv) DSRN: an Efficient Deep Network for Image Relighting (S. D. Das, N. A. Shah, S. Dutta, H. Kumar): [[Paper](https://arxiv.org/abs/2102.09242)]
+
+* (Software tool) Deep Illuminator: Data augmentation through variable illumination synthesis (G. Chogovadze): [[Code](https://github.com/chogovadze/Deep-Illuminator)] 
 
 * (NeurIPSW2020) MSR-Net: Multi-Scale Relighting Network for One-to-One Relighting (S. D. Das, N. A. Shah, S. Dutta): [[Paper](https://montrealrobotics.ca/diffcvgp/assets/papers/9.pdf)]
 

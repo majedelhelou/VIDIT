@@ -22,7 +22,14 @@ VIDIT includes 390 different Unreal Engine scenes, each captured with 40 illumin
 
 
 ## Getting the CVPR 2021 NTIRE data
-*Coming soon*, for now you can get access through [codalab](https://competitions.codalab.org/competitions/28030).
+*Coming soon*, for now you can get access through [codalab](https://competitions.codalab.org/competitions/28030) to Training and Validation data.
+
+For all our competition participants working on challenge papers, you can obtain the validation ground-truth sets from the links below. For now they are on GDrive, but we are working on setting up all data (Train/Validation/Test_input) on a permanent public EPFL institutional server.
+
+**Track 1**: [[Validation_GT](https://drive.google.com/file/d/1PCNpAdcDidGSSXK4-CGrrY97sfXUjmHZ/view?usp=sharing)]
+
+**Track 2**: [[Validation_GT](https://drive.google.com/file/d/1VpvF5jpbOHtMFebqVuSsigK_3zSPzFHU/view?usp=sharing)]
+
 
 ## Getting the ECCV 2020 AIM data
 Note: *ground-truth test* data will remain private.

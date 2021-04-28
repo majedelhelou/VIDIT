@@ -10,6 +10,7 @@ Contact author: [Majed El Helou](https://majedelhelou.github.io/)
 
 #### [[VIDIT Paper](https://arxiv.org/abs/2005.05460)] 
 #### [[ECCV AIM 2020 Paper](https://arxiv.org/abs/2009.12798)] - [[Supp.](https://github.com/majedelhelou/VIDIT/blob/master/AIM_2020_Relighting_Supp.pdf)] - [[Video](https://www.youtube.com/watch?v=Zn7R0fbXJZw)]
+#### [[CVPR NTIRE 2021 Paper](https://arxiv.org/abs/2104.13365)]
 
 > **Abstract:** *Deep image relighting is gaining more interest lately, as it allows photo enhancement through illumination-specific retouching without human effort. Aside from aesthetic enhancement and photo montage, image relighting is valuable for domain adaptation, whether to augment datasets for training or to normalize input test data. Accurate relighting is, however, very challenging for various reasons, such as the difficulty in removing and recasting shadows and the modeling of different surfaces. We present a novel dataset, the Virtual Image Dataset for Illumination Transfer (VIDIT), in an effort to create a reference evaluation benchmark and to push forward the development of illumination manipulation methods. Virtual datasets are not only an important step towards achieving real-image performance but have also proven capable of improving training even when real datasets are possible to acquire and available. VIDIT contains 300 virtual scenes used for training, where every scene is captured 40 times in total: from 8 equally-spaced azimuthal angles, each lit with 5 different illuminants.*
 

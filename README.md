@@ -49,6 +49,8 @@ If you want to use VIDIT for other purposes, the training images are provided in
 
 ## Some associated solutions (pull request/email to add yours)
 
+* (CVPRW2021) Phisycally Inspired Dense Fusion Networks for Relighting. (A. Yazdani, T. Guo, V. Monga): [[Paper](https://arxiv.org/pdf/2105.02209.pdf)]-[[Code](https://github.com/yazdaniamir38/Depth-guided-Image-Relighting)]
+
 * (arXiv) DSRN: an Efficient Deep Network for Image Relighting (S. D. Das, N. A. Shah, S. Dutta, H. Kumar): [[Paper](https://arxiv.org/abs/2102.09242)]
 
 * (Software tool) Deep Illuminator: Data augmentation through variable illumination synthesis (G. Chogovadze): [[Code](https://github.com/chogovadze/Deep-Illuminator)] 

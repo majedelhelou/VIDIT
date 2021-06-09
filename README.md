@@ -22,14 +22,13 @@ VIDIT includes 390 different Unreal Engine scenes, each captured with 40 illumin
 </p>
 
 
-## Getting the CVPR 2021 NTIRE data
-*Coming soon*, for now you can get access through [codalab](https://competitions.codalab.org/competitions/28030) to Training and Validation data.
+## Getting the CVPR 2021 NTIRE data (with depth maps)
+Note: *ground-truth test* data will remain private.
 
-For all our competition participants working on challenge papers, you can obtain the validation ground-truth sets from the links below. For now they are on GDrive, but we are working on setting up all data (Train/Validation/Test_input) on a permanent public EPFL institutional server.
+**Track 1**: [[Train](https://datasets.epfl.ch/vidit/NTIRE2021/track1_train.zip)] - [[Validation_Input](https://datasets.epfl.ch/vidit/NTIRE2021/track1_validation.zip)] - [[Validation_GT](https://datasets.epfl.ch/vidit/NTIRE2021/track1_validation_gt.zip)] - [[Test_Input](https://datasets.epfl.ch/vidit/NTIRE2021/track1_test.zip)]
 
-**Track 1**: [[Validation_GT](https://drive.google.com/file/d/1PCNpAdcDidGSSXK4-CGrrY97sfXUjmHZ/view?usp=sharing)]
+**Track 2**: [[Train](https://datasets.epfl.ch/vidit/NTIRE2021/track2_train.zip)] - [[Validation_Input](https://datasets.epfl.ch/vidit/NTIRE2021/track2_validation.zip)] - [[Validation_GT](https://datasets.epfl.ch/vidit/NTIRE2021/track2_validation_gt.zip)] - [[Test_Input](https://datasets.epfl.ch/vidit/NTIRE2021/track2_test.zip)]
 
-**Track 2**: [[Validation_GT](https://drive.google.com/file/d/1VpvF5jpbOHtMFebqVuSsigK_3zSPzFHU/view?usp=sharing)]
 
 
 ## Getting the ECCV 2020 AIM data
@@ -49,7 +48,7 @@ If you want to use VIDIT for other purposes, the training images are provided in
 
 ## Some associated solutions (pull request/email to add yours)
 
-* (CVPRW2021) Phisycally Inspired Dense Fusion Networks for Relighting. (A. Yazdani, T. Guo, V. Monga): [[Paper](https://arxiv.org/pdf/2105.02209.pdf)]-[[Code](https://github.com/yazdaniamir38/Depth-guided-Image-Relighting)]
+* (CVPRW2021) Phisycally Inspired Dense Fusion Networks for Relighting. (A. Yazdani, T. Guo, V. Monga): [[Paper](https://arxiv.org/pdf/2105.02209.pdf)] - [[Code](https://github.com/yazdaniamir38/Depth-guided-Image-Relighting)]
 
 * (arXiv) DSRN: an Efficient Deep Network for Image Relighting (S. D. Das, N. A. Shah, S. Dutta, H. Kumar): [[Paper](https://arxiv.org/abs/2102.09242)]
 

@@ -48,7 +48,11 @@ If you want to use VIDIT for other purposes, the training images are provided in
 
 ## Some associated solutions (pull request/email to add yours)
 
-* (CVPRW2021) Phisycally Inspired Dense Fusion Networks for Relighting. (A. Yazdani, T. Guo, V. Monga): [[Paper](https://arxiv.org/pdf/2105.02209.pdf)] - [[Code](https://github.com/yazdaniamir38/Depth-guided-Image-Relighting)]
+* (CVPRW2021) Multi-modal Bifurcated Network for Depth Guided Image Relighting. (H. Yang, W. Chen, H. Luo, S. Kuo): [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Yang_Multi-Modal_Bifurcated_Network_for_Depth_Guided_Image_Relighting_CVPRW_2021_paper.pdf)] - [[Code](https://github.com/weitingchen83/NTIRE2021-Depth-Guided-Image-Relighting-MBNet)]
+
+* (CVPRW2021) S3Net: A Single Stream Structure for Depth Guided Image Relighting. (H. Yang, W. Chen, S. Kuo): [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Yang_S3Net_A_Single_Stream_Structure_for_Depth_Guided_Image_Relighting_CVPRW_2021_paper.pdf)] - [[Code](https://github.com/dectrfov/NTIRE-2021-Depth-Guided-Image-Any-to-Any-relighting)]
+
+* (CVPRW2021) Physically Inspired Dense Fusion Networks for Relighting. (A. Yazdani, T. Guo, V. Monga): [[Paper](https://arxiv.org/pdf/2105.02209.pdf)] - [[Code](https://github.com/yazdaniamir38/Depth-guided-Image-Relighting)]
 
 * (arXiv) DSRN: an Efficient Deep Network for Image Relighting (S. D. Das, N. A. Shah, S. Dutta, H. Kumar): [[Paper](https://arxiv.org/abs/2102.09242)]
 
@@ -56,11 +60,11 @@ If you want to use VIDIT for other purposes, the training images are provided in
 
 * (NeurIPSW2020) MSR-Net: Multi-Scale Relighting Network for One-to-One Relighting (S. D. Das, N. A. Shah, S. Dutta): [[Paper](https://montrealrobotics.ca/diffcvgp/assets/papers/9.pdf)]
 
-* (ECCVW2020) WDRN : A Wavelet Decomposed RelightNet forImage Relighting (D. Puthussery, Hrishikesh P.S., M. Kuriakose, and Jiji C.V): [[Paper](https://doi.org/10.1007/978-3-030-67070-2_32)]
+* (ECCVW2020) WDRN : A Wavelet Decomposed RelightNet forImage Relighting (D. Puthussery, Hrishikesh P.S., M. Kuriakose, Jiji C.V): [[Paper](https://doi.org/10.1007/978-3-030-67070-2_32)]
 
-* Encoder-decoder latent space manipulation (A. Dherse, M. Everaert, and J. Gwizdala): [[Paper](https://arxiv.org/pdf/2006.02333.pdf)] - [[Code](https://github.com/martin-ev/2DSceneRelighting)]
+* Encoder-decoder latent space manipulation (A. Dherse, M. Everaert, J. Gwizdala): [[Paper](https://arxiv.org/pdf/2006.02333.pdf)] - [[Code](https://github.com/martin-ev/2DSceneRelighting)]
 
-* Norm-Relighting-U-Net (M. Afifi and M. Brown): [[Code](https://github.com/mahmoudnafifi/image_relighting)]
+* Norm-Relighting-U-Net (M. Afifi, M. Brown): [[Code](https://github.com/mahmoudnafifi/image_relighting)]
 
 * (ECCVW2020) Deep relighting networks for image light source manipulation (L. Wang, Z. Liu, C. Li, W. Siu, D. Lun): [[Paper](https://arxiv.org/abs/2008.08298)] - [[Code](https://github.com/WangLiwen1994/DeepRelight)]
 

@@ -4,6 +4,8 @@ We release updates on a rolling basis, you can watch the repo/follow the author 
 
 Contact author: [Majed El Helou](https://majedelhelou.github.io/)
 
+:fire: **News-Jun21**: Our CVPR 2021 NTIRE workshop event will be available for everyone! Live [stream](https://data.vision.ee.ethz.ch/cvl/ntire21/#live), or [zoom](https://ethz.zoom.us/j/63989612192) to join on June 19 2021, starting 14:00 UTC (7:00 Pacific Standard Time). Full schedule [here](https://data.vision.ee.ethz.ch/cvl/ntire21/#schedule).
+
 :fire: **News-Jan21**: VIDIT augmented with depth information is used in the NTIRE workshop challenges, part of CVPR 2021. The competition starts on January 5th 2021, and is made up of the depth guided [one-to-one](https://competitions.codalab.org/competitions/28030) and [any-to-any](https://competitions.codalab.org/competitions/28031) illumination transfer.
 
 :fire: **News-May20**: VIDIT is used for the relighting challenge in the [AIM workshop](https://data.vision.ee.ethz.ch/cvl/aim20/), part of ECCV 2020. Check out the relighting competition beginning May 13th 2020, it is made up of 3 tracks for [one-to-one](https://competitions.codalab.org/competitions/24671) and [any-to-any](https://competitions.codalab.org/competitions/24674) illumination transfer, and for [illumination estimation](https://competitions.codalab.org/competitions/24773).
@@ -84,9 +86,17 @@ If you want to use VIDIT for other purposes, the training images are provided in
 
 @inproceedings{elhelou2020aim,
     title     = {{AIM} 2020: Scene Relighting and Illumination Estimation Challenge},
-    author    = {El Helou, Majed and Zhou, Ruofan and S\"usstrunk, Sabine and Timofte, Radu and others},
+    author    = {El Helou, Majed and Zhou, Ruofan and S{\"u}sstrunk, Sabine and Timofte, Radu and others},
     booktitle = {Proceedings of the European Conference on Computer Vision Workshops (ECCVW)},
     year      = {2020}
+}
+
+@inproceedings{elhelou2021ntire,
+    title     = {{NTIRE} 2021 Depth Guided Image Relighting Challenge},
+    author    = {El Helou, Majed and Zhou, Ruofan and S{\"u}sstrunk, Sabine and Timofte, Radu},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+    pages     = {566--577},
+    year      = {2021}
 }
 ```
 

@@ -27,6 +27,10 @@ VIDIT includes 390 different Unreal Engine scenes, each captured with 40 illumin
 ## Getting the CVPR 2021 NTIRE data (with depth maps)
 Note: *ground-truth test* data will remain private.
 
+Track 1 is one-to-one relighting: transforming an image from its input illumination settings to the target illumination settings.
+
+Track 2 is any-to-any relighting: unlike track 1, the input illumination is variable, and the target illumination is not fixed but is rather given by another guide image.
+
 **Track 1**: [[Train](https://datasets.epfl.ch/vidit/NTIRE2021/track1_train.zip)] - [[Validation_Input](https://datasets.epfl.ch/vidit/NTIRE2021/track1_validation.zip)] - [[Validation_GT](https://datasets.epfl.ch/vidit/NTIRE2021/track1_validation_gt.zip)] - [[Test_Input](https://datasets.epfl.ch/vidit/NTIRE2021/track1_test.zip)]
 
 **Track 2**: [[Train](https://datasets.epfl.ch/vidit/NTIRE2021/track2_train.zip)] - [[Validation_Input](https://datasets.epfl.ch/vidit/NTIRE2021/track2_validation.zip)] - [[Validation_GT](https://datasets.epfl.ch/vidit/NTIRE2021/track2_validation_gt.zip)] - [[Test_Input](https://datasets.epfl.ch/vidit/NTIRE2021/track2_test.zip)]

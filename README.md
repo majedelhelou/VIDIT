@@ -50,6 +50,8 @@ If you want to use VIDIT for other purposes, the training images are provided in
 
 ## Some associated solutions (pull request/email to add yours)
 
+* (CVPRW2021) Multi-scale Self-calibrated Network for Image Light Source Transfer. (Y. Wang, T. Lu, Y. Zhang, Y. Wu): [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Wang_Multi-Scale_Self-Calibrated_Network_for_Image_Light_Source_Transfer_CVPRW_2021_paper.pdf)] - [[Code](https://github.com/mdswyz/MCN-light-source-transfer)]
+
 * (CVPRW2021) Multi-modal Bifurcated Network for Depth Guided Image Relighting. (H. Yang, W. Chen, H. Luo, S. Kuo): [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Yang_Multi-Modal_Bifurcated_Network_for_Depth_Guided_Image_Relighting_CVPRW_2021_paper.pdf)] - [[Code](https://github.com/weitingchen83/NTIRE2021-Depth-Guided-Image-Relighting-MBNet)]
 
 * (CVPRW2021) S3Net: A Single Stream Structure for Depth Guided Image Relighting. (H. Yang, W. Chen, S. Kuo): [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Yang_S3Net_A_Single_Stream_Structure_for_Depth_Guided_Image_Relighting_CVPRW_2021_paper.pdf)] - [[Code](https://github.com/dectrfov/NTIRE-2021-Depth-Guided-Image-Any-to-Any-relighting)]

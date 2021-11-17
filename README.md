@@ -54,7 +54,13 @@ If you want to use VIDIT for other purposes, the training images are provided in
 
 ## Some associated solutions (pull request/email to add yours)
 
+* (CVPR2021) Intrinsic Image Harmonization (Z. Guo, H. Zheng, Y. Jiang, Z. Gu, B. Zheng): [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Intrinsic_Image_Harmonization_CVPR_2021_paper.pdf)] - [[Code](https://github.com/zhenglab/IntrinsicHarmony)]
+
+* (BMVC2021) SILT: Self-supervised Lighting Transfer Using Implicit Image Decomposition (N. Kubiak, A. Mustafa, G. Phillipson, S. Jolly, S. Hadfield): [[Paper](http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/papers/Kubiak21SILT.pdf)] - [[Code](https://github.com/n-kubiak/SILT)]
+
 * (ICIP2021) DSRN: an Efficient Deep Network for Image Relighting (S. D. Das, N. A. Shah, S. Dutta, H. Kumar): [[Paper](https://arxiv.org/abs/2102.09242)]
+
+* (Computer Graphics Forum 2021) Deep Neural Models for Illumination Estimation and Relighting: A Survey (F. Einabadi, J. Y. Guillemaut, A. Hilton): [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14283)]
 
 * (CVPRW2021) Multi-scale Self-calibrated Network for Image Light Source Transfer. (Y. Wang, T. Lu, Y. Zhang, Y. Wu): [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Wang_Multi-Scale_Self-Calibrated_Network_for_Image_Light_Source_Transfer_CVPRW_2021_paper.pdf)] - [[Code](https://github.com/mdswyz/MCN-light-source-transfer)]
 
